@@ -14,7 +14,7 @@ all above examples can be answered in yes or no, true or false, 1 or 0
 
 This type of classification is known as Binary classification.
 
-Linear Regeression algorithms are not fit to solve classification problems, to solve classification problems we use Logistic Regression which.
+Linear Regeression algorithms are not fit to solve classification problems, to solve classification problems we use Logistic Regression.
 
 Both Logistic Regression and Linear Regression are different.
 
