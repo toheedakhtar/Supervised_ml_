@@ -1,0 +1,21 @@
+classification is getting either yes or no output: 
+for ex:
+if an animal is cat or not - either yes or no
+
+what is the wieght of cat on basis of height is not a classification problem, but a linear regression problem?
+
+other ex o classification are - 
+- is this tumor malignant?
+- is this email spam?
+- if animal is a dog?
+
+all above examples can be answered in yes or no, true or false, 1 or 0
+1 being True or yes and 0 being False or No.
+
+This type of classification is known as Binary classification.
+
+Linear Regeression algorithms are not fit to solve classification problems, to solve classification problems we use Logistic Regression which.
+
+Both Logistic Regression and Linear Regression are different.
+
+Logistic Regeression is the most used algorithm for classification
